@@ -12,7 +12,7 @@ Models Used: Logistic Regression, KNN, Decision Tree, Random Forest, SVM, etc.
 
 Evaluation Metrics: Accuracy, Precision, Recall, F1 Score, ROC-AUC
 
-📊 Features Used
+📊 Features Used :
 
 Age
 
@@ -40,7 +40,7 @@ Number of major vessels (ca)
 
 Thalassemia (thal)
 
-🧠 Machine Learning Pipeline
+🧠 Machine Learning Pipeline:
 
 Data Cleaning
 
@@ -54,13 +54,13 @@ Model Comparison
 
 Hyperparameter Tuning
 
-✅ Results
+✅ Results:
 
 Achieved up to X% accuracy with [best model].
 
 ROC-AUC score of Y with [best model].
 
-📁 Folder Structure
+📁 Folder Structure:
 heart-disease-prediction/
 │
 ├── data/               # Dataset files
@@ -70,6 +70,3 @@ heart-disease-prediction/
 ├── requirements.txt    # Python dependencies
 ├── README.md           # Project overview
 
-Contributions, issues, and feature requests are welcome! Feel free to fork this repo and submit a pull request.
-
-Would you like a version tailored for Streamlit deployment, Flask API, or with Docker support added?
